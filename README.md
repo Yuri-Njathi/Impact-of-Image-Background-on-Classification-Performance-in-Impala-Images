@@ -1,0 +1,1 @@
+# Impact-of-Image-Background-on-Classification-Performance-in-Impala-Images
